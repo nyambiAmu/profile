@@ -9,7 +9,7 @@ export default [
   },
   {
     date: "August 2023- Present",
-    designation: " DevOps Trainne ",
+    designation: " DevOps trainee ",
     companyName: "Capaciti  Carrer Tech Accelerator ",
     location: "Bramfointain(CapaCiti)",
     description:

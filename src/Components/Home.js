@@ -4,9 +4,9 @@ function Home() {
   return (
     <div className="home">
       <div>
-        <h3>Designer . Web Developer . Flutter Developer. react WEB AND Mobile Developer</h3>
+        <h3>Designer . Web Developer . Flutter Developer. react Web AND Mobile Developer</h3>
         <p>Hello 👋🏽 my name is</p>
-        <h1>Amukelani Nyambi</h1>
+        <h1 >Amukelani Nyambi</h1>
         <p>
           I am a web developer and a flutter developer with experience in
           building user-friendly web application using variety of technologies

@@ -30,4 +30,12 @@ export default [
         buttonLink: "https://github.com/nyambiAmu/CountrySearch.git"
 
     },
+
+    {
+        name: "Mozamotsha Primary school",
+        description: "School website",
+        img: "moza.png",
+        buttonLink: "https://github.com/Ian-Phangisa/Byte-Detectives-Mzamomtsha.git"
+
+    },
 ]
